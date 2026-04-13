@@ -1,6 +1,7 @@
-# Marketing Knowledge Base: How Marketing Really Works
+# Marketing Knowledge Base: MKB-100 — The Marketing Intelligence Operating System
 
-> A comprehensive 80-part guide to marketing in practice — from core principles to futuristic frontiers and research gaps.
+> A comprehensive **100-part** marketing intelligence engine — from first principles to futuristic frontiers, research gaps, and a complete strategic operating system.
+> VERSION: MKB-100
 
 ---
 
@@ -12,7 +13,7 @@ This knowledge base covers how marketing actually works in practice. It is desig
 - Marketers looking to deepen their knowledge in specific areas
 - Anyone curious about how companies create and grow customer relationships
 
-Each of the 80 parts is self-contained and can be read independently, though cross-references throughout help you build a complete picture.
+Each of the 100 parts is self-contained and can be read independently, though cross-references throughout help you build a complete picture.
 
 **What you'll find in each part:**
 - Clear learning objectives
@@ -185,6 +186,42 @@ Advanced customer experience infrastructure, future consumer segments, and the l
 
 ---
 
+### Section 11: Marketing Intelligence & Decision Systems (Parts 81–90)
+High-novelty frameworks for competitive sensing, market creation, cultural intelligence, and growth science.
+
+| Part | Title | Description |
+|------|-------|-------------|
+| [Part 81](./intelligence/part-81-marketing-intelligence-systems.md) | Marketing Intelligence Systems & Competitive Sensing | Building a continuous intelligence operation that converts market signals into strategic decisions |
+| [Part 82](./intelligence/part-82-jobs-to-be-done.md) | Jobs-to-be-Done (JTBD) Theory in Marketing | Positioning, messaging, and competitive strategy grounded in the jobs customers hire products to do |
+| [Part 83](./intelligence/part-83-network-effects-viral-loops.md) | Network Effects & Viral Loop Engineering | Designing structural growth mechanisms — the five network effect types and viral coefficient engineering |
+| [Part 84](./intelligence/part-84-brand-architecture-portfolio.md) | Brand Architecture & Portfolio Strategy | Branded House, House of Brands, Endorsed Brand — and the equity transfer science behind each |
+| [Part 85](./intelligence/part-85-signal-based-selling-intent.md) | Signal-Based Selling & B2B Intent Data | Identifying in-market accounts through intent, hiring, technographic, and trigger event signals |
+| [Part 86](./intelligence/part-86-narrative-economics-cultural-marketing.md) | Narrative Economics & Cultural Marketing | How cultural narratives drive purchase behavior — and how to align brand strategy with ascending narratives |
+| [Part 87](./intelligence/part-87-recession-marketing.md) | Marketing in Recessions & Economic Uncertainty | The empirical case for maintained investment during downturns, and how to adapt strategy for contraction |
+| [Part 88](./intelligence/part-88-category-creation.md) | Category Creation — Building Markets That Don't Exist | The strategic playbook for defining a new category and automatically becoming its leader |
+| [Part 89](./intelligence/part-89-anti-marketing-counterintuitive.md) | Anti-Marketing & Counterintuitive Growth Strategies | When breaking the rules produces disproportionate results — seven documented anti-marketing plays |
+| [Part 90](./intelligence/part-90-virality-word-of-mouth.md) | The Science of Virality & Word-of-Mouth Engineering | STEPPS, network science, and algorithm-mediated spread — designing for organic amplification |
+
+---
+
+### Section 12: MKB-100 Synthesis & Operating System (Parts 91–100)
+Advanced enterprise frameworks, cross-cultural intelligence, and the complete MKB-100 operating system synthesizing all 100 parts.
+
+| Part | Title | Description |
+|------|-------|-------------|
+| [Part 91](./intelligence/part-91-marketing-operating-system.md) | The Marketing Operating System | The six-component infrastructure that determines whether strategy converts to compounding results |
+| [Part 92](./intelligence/part-92-pricing-psychology-scale.md) | Pricing Psychology at Scale | Compromise effect, decoy pricing, payment decoupling, price-quality inference — beyond charm pricing |
+| [Part 93](./intelligence/part-93-brand-equity-measurement.md) | Brand Equity Measurement & Management | Aaker, Keller, BAV frameworks — and the financial translation of brand equity to business outcomes |
+| [Part 94](./intelligence/part-94-account-based-marketing.md) | Account-Based Marketing (ABM) at Enterprise Scale | 1:1, 1:few, 1:many ABM tiers — technology, alignment requirements, and measurement standards |
+| [Part 95](./intelligence/part-95-sales-marketing-alignment.md) | Sales-Marketing Alignment & Revenue Architecture | Structural causes of misalignment and the Revenue Architecture framework for resolving them |
+| [Part 96](./intelligence/part-96-global-marketing-localization.md) | Global Marketing, Localization & Cross-Cultural Intelligence | Hofstede's six dimensions applied to messaging, creative adaptation, and global brand consistency |
+| [Part 97](./intelligence/part-97-creator-economy-owned-media.md) | The Creator Economy & Owned Media Strategy | Rented vs. owned media economics, internal creator programs, and the compounding owned media stack |
+| [Part 98](./intelligence/part-98-platform-ecosystem-marketing.md) | Marketing in Platform Ecosystems | ASO, Amazon marketing, and algorithm-aware social platform strategy — and platform dependency risk |
+| [Part 99](./intelligence/part-99-scenario-planning-foresight.md) | Scenario Planning & Strategic Foresight for Marketers | Shell method scenario planning adapted for marketing — building strategies robust across multiple futures |
+| [Part 100](./intelligence/part-100-mkb100-master-framework.md) | The MKB-100 Master Framework | The complete Marketing Intelligence Operating System — architecture, operating principles, and the four governing questions |
+
+---
+
 ## How to Use This Knowledge Base
 
 ### If You're New to Marketing
@@ -202,6 +239,7 @@ Follow the logical progression:
 5. **Build your acquisition and retention engine** (Parts 33–40)
 6. **Measure and optimize** (Parts 41–48)
 7. **Explore futuristic frontiers** (Parts 51–80)
+8. **Build intelligence and decision systems** (Parts 81–100)
 
 ### Suggested Reading Paths
 
@@ -222,6 +260,12 @@ Part 51 → Part 52 → Part 57 → Part 58 → Part 67 → Part 71 → Part 72 
 
 **For a Research-Focused Marketer:**
 Part 56 → Part 61 → Part 62 → Part 63 → Part 64 → Part 66 → Part 75 → Part 80
+
+**For a Strategic Decision Maker (MKB-100 Intelligence Track):**
+Part 82 → Part 86 → Part 88 → Part 81 → Part 87 → Part 99 → Part 91 → Part 100
+
+**For a B2B Revenue Leader:**
+Part 85 → Part 94 → Part 95 → Part 73 → Part 52 → Part 42 → Part 100
 
 ---
 
@@ -287,37 +331,58 @@ marketing/
 ├── advanced/
 │   ├── part-49-growth-hacking.md
 │   └── part-50-integrated-marketing-campaigns.md
-└── futuristic/
-    ├── part-51-ai-generative-marketing.md
-    ├── part-52-predictive-analytics-ml.md
-    ├── part-53-metaverse-xr-marketing.md
-    ├── part-54-voice-conversational-marketing.md
-    ├── part-55-web3-decentralized-marketing.md
-    ├── part-56-neuromarketing-consumer-psychology.md
-    ├── part-57-hyper-personalization.md
-    ├── part-58-zero-party-data-privacy.md
-    ├── part-59-augmented-reality-marketing.md
-    ├── part-60-programmatic-rtb-evolution.md
-    ├── part-61-behavioral-economics.md
-    ├── part-62-dark-social-unmeasurable-impact.md
-    ├── part-63-emotional-ai-sentiment.md
-    ├── part-64-quantum-computing-marketing.md
-    ├── part-65-ethical-marketing.md
-    ├── part-66-micro-moments-attention.md
-    ├── part-67-post-cookie-identity.md
-    ├── part-68-synthetic-media.md
-    ├── part-69-community-led-growth.md
-    ├── part-70-social-commerce.md
-    ├── part-71-customer-data-platforms.md
-    ├── part-72-omnichannel-orchestration.md
-    ├── part-73-predictive-clv-modeling.md
-    ├── part-74-dynamic-pricing-optimization.md
-    ├── part-75-biometric-marketing.md
-    ├── part-76-ambient-computing-iot.md
-    ├── part-77-regenerative-marketing.md
-    ├── part-78-generation-alpha.md
-    ├── part-79-attention-economy-ad-blindness.md
-    └── part-80-future-of-marketing.md
+├── futuristic/
+│   ├── part-51-ai-generative-marketing.md
+│   ├── part-52-predictive-analytics-ml.md
+│   ├── part-53-metaverse-xr-marketing.md
+│   ├── part-54-voice-conversational-marketing.md
+│   ├── part-55-web3-decentralized-marketing.md
+│   ├── part-56-neuromarketing-consumer-psychology.md
+│   ├── part-57-hyper-personalization.md
+│   ├── part-58-zero-party-data-privacy.md
+│   ├── part-59-augmented-reality-marketing.md
+│   ├── part-60-programmatic-rtb-evolution.md
+│   ├── part-61-behavioral-economics.md
+│   ├── part-62-dark-social-unmeasurable-impact.md
+│   ├── part-63-emotional-ai-sentiment.md
+│   ├── part-64-quantum-computing-marketing.md
+│   ├── part-65-ethical-marketing.md
+│   ├── part-66-micro-moments-attention.md
+│   ├── part-67-post-cookie-identity.md
+│   ├── part-68-synthetic-media.md
+│   ├── part-69-community-led-growth.md
+│   ├── part-70-social-commerce.md
+│   ├── part-71-customer-data-platforms.md
+│   ├── part-72-omnichannel-orchestration.md
+│   ├── part-73-predictive-clv-modeling.md
+│   ├── part-74-dynamic-pricing-optimization.md
+│   ├── part-75-biometric-marketing.md
+│   ├── part-76-ambient-computing-iot.md
+│   ├── part-77-regenerative-marketing.md
+│   ├── part-78-generation-alpha.md
+│   ├── part-79-attention-economy-ad-blindness.md
+│   └── part-80-future-of-marketing.md
+└── intelligence/
+    ├── part-81-marketing-intelligence-systems.md
+    ├── part-82-jobs-to-be-done.md
+    ├── part-83-network-effects-viral-loops.md
+    ├── part-84-brand-architecture-portfolio.md
+    ├── part-85-signal-based-selling-intent.md
+    ├── part-86-narrative-economics-cultural-marketing.md
+    ├── part-87-recession-marketing.md
+    ├── part-88-category-creation.md
+    ├── part-89-anti-marketing-counterintuitive.md
+    ├── part-90-virality-word-of-mouth.md
+    ├── part-91-marketing-operating-system.md
+    ├── part-92-pricing-psychology-scale.md
+    ├── part-93-brand-equity-measurement.md
+    ├── part-94-account-based-marketing.md
+    ├── part-95-sales-marketing-alignment.md
+    ├── part-96-global-marketing-localization.md
+    ├── part-97-creator-economy-owned-media.md
+    ├── part-98-platform-ecosystem-marketing.md
+    ├── part-99-scenario-planning-foresight.md
+    └── part-100-mkb100-master-framework.md
 ```
 
 ---
@@ -329,3 +394,7 @@ This knowledge base is designed to evolve. If you identify outdated information,
 ---
 
 *This knowledge base covers marketing practice and emerging research through 2026. Marketing evolves rapidly — always cross-reference with current platform documentation and industry resources for the latest tactical guidance.*
+
+---
+
+*MKB-100: Marketing Knowledge-Base Operating System — 100 parts, 12 sections, 9 directories.*

@@ -68,6 +68,48 @@
 - [Part 49: Experimentation OS](07-measurement-adaptation/part-49-experimentation-os.md)
 - [Part 50: Quarterly Strategy Refactor](07-measurement-adaptation/part-50-quarterly-strategy-refactor.md)
 
+
+### Section 8: Futuristic Frontiers & Research Gaps
+*30 advanced parts covering emerging technologies, research frontiers, and the unsolved problems shaping the future of marketing.*
+
+#### AI, Automation & Emerging Technology (Parts 51–58)
+- [Part 51: AI-Powered Marketing Intelligence](08-futuristic-frontiers/part-51-ai-marketing-intelligence.md)
+- [Part 52: Generative AI Content at Scale](08-futuristic-frontiers/part-52-generative-ai-content-at-scale.md)
+- [Part 53: Autonomous Marketing Agents](08-futuristic-frontiers/part-53-autonomous-marketing-agents.md)
+- [Part 54: Predictive Customer Behavior Modeling](08-futuristic-frontiers/part-54-predictive-customer-behavior.md)
+- [Part 55: Neuromarketing & Behavioral Science](08-futuristic-frontiers/part-55-neuromarketing-and-behavioral-science.md)
+- [Part 56: Web3 & Decentralized Marketing](08-futuristic-frontiers/part-56-web3-decentralized-marketing.md)
+- [Part 57: Spatial Computing, AR & VR Marketing](08-futuristic-frontiers/part-57-spatial-computing-ar-vr-marketing.md)
+- [Part 58: Voice Search & Ambient Computing Marketing](08-futuristic-frontiers/part-58-voice-and-ambient-computing-marketing.md)
+
+#### The Future of Channels & Audiences (Parts 59–66)
+- [Part 59: The Cookieless Future & First-Party Data](08-futuristic-frontiers/part-59-cookieless-future-and-first-party-data.md)
+- [Part 60: AI-Powered Personalization at Scale](08-futuristic-frontiers/part-60-ai-powered-personalization-at-scale.md)
+- [Part 61: Creator Economy & Community-Led Growth](08-futuristic-frontiers/part-61-creator-economy-and-community-led-growth.md)
+- [Part 62: TikTok, Short-Form Video & Attention Economics](08-futuristic-frontiers/part-62-tiktok-short-video-and-attention-economics.md)
+- [Part 63: B2B Dark Social & Invisible Influence](08-futuristic-frontiers/part-63-b2b-dark-social-and-invisible-influence.md)
+- [Part 64: Podcast & Audio Marketing](08-futuristic-frontiers/part-64-podcast-and-audio-marketing.md)
+- [Part 65: International & Cross-Cultural Marketing](08-futuristic-frontiers/part-65-international-and-cross-cultural-marketing.md)
+- [Part 66: Sustainability & Purpose-Driven Marketing](08-futuristic-frontiers/part-66-sustainability-and-purpose-driven-marketing.md)
+
+#### Research Gaps & Frontier Frameworks (Parts 67–74)
+- [Part 67: Next-Generation Marketing Mix Modeling](08-futuristic-frontiers/part-67-marketing-mix-modeling-next-gen.md)
+- [Part 68: Incrementality Testing at Scale](08-futuristic-frontiers/part-68-incrementality-testing-at-scale.md)
+- [Part 69: Causal Inference in Marketing](08-futuristic-frontiers/part-69-causal-inference-in-marketing.md)
+- [Part 70: The Frontier of Customer Lifetime Value Modeling](08-futuristic-frontiers/part-70-customer-lifetime-value-frontier.md)
+- [Part 71: Attention Measurement & Media Quality](08-futuristic-frontiers/part-71-attention-measurement-and-media-quality.md)
+- [Part 72: Dark Patterns, Ethical Marketing & Regulation](08-futuristic-frontiers/part-72-dark-patterns-and-ethical-marketing.md)
+- [Part 73: Marketing in AI-Saturated Markets](08-futuristic-frontiers/part-73-marketing-in-ai-saturated-markets.md)
+- [Part 74: Marketing Org Design & the Future of Work](08-futuristic-frontiers/part-74-marketing-org-design-and-future-of-work.md)
+
+#### Next-Gen Strategy & Operating Models (Parts 75–80)
+- [Part 75: The Product-Led Growth Frontier](08-futuristic-frontiers/part-75-product-led-growth-frontier.md)
+- [Part 76: AI Search & the Death of the Blue Link](08-futuristic-frontiers/part-76-ai-search-and-the-death-of-blue-links.md)
+- [Part 77: Real-Time Marketing & Event-Driven Systems](08-futuristic-frontiers/part-77-real-time-marketing-and-event-driven-systems.md)
+- [Part 78: Category Creation & Market Making](08-futuristic-frontiers/part-78-category-creation-and-market-making.md)
+- [Part 79: Marketing During Economic Uncertainty](08-futuristic-frontiers/part-79-marketing-during-economic-uncertainty.md)
+- [Part 80: The Future Marketing Stack — Infrastructure for 2030](08-futuristic-frontiers/part-80-the-future-marketing-stack.md)
+
 ---
 
 ## All-Out Attack — Operating Doctrine

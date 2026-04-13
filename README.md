@@ -1,6 +1,15 @@
 # Marketing Strategy Knowledge Base
 
-> **State-of-the-Art, All-Out Marketing Strategy** — 50 comprehensive guides covering every dimension of building and executing effective marketing strategy.
+> **State-of-the-Art, All-Out Marketing Strategy** — 80 comprehensive guides covering every dimension of building and executing effective marketing strategy.
+
+---
+
+## 🚀 START HERE: Executive OS
+
+> **[EXECUTIVE MARKETING STRATEGY OS — COMPRESSED](EXECUTIVE-MARKETING-STRATEGY-OS.md)**
+> The entire 80-part knowledge base distilled into one operating document — strategy decisions, campaign frameworks, measurement systems, operating cadences, and the 30 Laws of Marketing Execution. Use as your board brief, CMO onboarding guide, or quarterly reset tool.
+
+---
 
 ## Table of Contents
 

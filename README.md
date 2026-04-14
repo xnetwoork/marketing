@@ -5,6 +5,13 @@
 
 ---
 
+## 🚀 START HERE: Executive OS
+
+> **[EXECUTIVE MARKETING STRATEGY OS — COMPRESSED](EXECUTIVE-MARKETING-STRATEGY-OS.md)**
+> The entire strategy knowledge base distilled into one operating document — strategy decisions, campaign frameworks, measurement systems, operating cadences, and the 30 Laws of Marketing Execution. Use as your board brief, CMO onboarding guide, or quarterly reset tool.
+
+---
+
 ## About This Knowledge Base
 
 This knowledge base covers how marketing actually works in practice. It is designed for:
@@ -34,137 +41,137 @@ Core principles that underpin all effective marketing.
 | [Part 1](./foundations/part-01-core-marketing-principles.md) | Core Marketing Principles | What marketing really is, why it matters, and the fundamentals every marketer must understand |
 | [Part 2](./foundations/part-02-target-audience.md) | Defining Your Target Audience | How to identify, research, and describe the people you're trying to reach |
 | [Part 3](./foundations/part-03-market-research.md) | Market Research | Methods and frameworks for gathering insights that reduce costly assumptions |
-| [Part 4](./foundations/part-04-competitive-analysis.md) | Competitive Analysis | How to map your competitive landscape and find your strategic advantage |
-| [Part 5](./foundations/part-05-value-proposition.md) | Value Proposition | Crafting a clear, specific promise that resonates with your target customer |
-| [Part 6](./foundations/part-06-buyer-personas.md) | Buyer Personas | Building research-backed customer profiles that guide every marketing decision |
-| [Part 7](./foundations/part-07-market-segmentation.md) | Market Segmentation | Dividing your market into actionable, targetable groups |
-| [Part 8](./foundations/part-08-positioning.md) | Positioning | Defining how you want to be perceived in your customer's mind relative to alternatives |
+| [Part 4](./foundations/part-04-competitive-analysis.md) | Competitive Analysis | How to understand your competition and use that understanding strategically |
+| [Part 5](./foundations/part-05-value-proposition.md) | Value Proposition | Crafting a compelling statement of the value you create for specific customers |
+| [Part 6](./foundations/part-06-buyer-personas.md) | Buyer Personas | Building accurate, useful representations of your ideal customers |
+| [Part 7](./foundations/part-07-market-segmentation.md) | Market Segmentation | Dividing markets into meaningful groups that can be served distinctly |
+| [Part 8](./foundations/part-08-positioning.md) | Positioning | How to own a distinct and valuable place in your customer's mind |
 
 ---
 
 ### Section 2: Strategy & Planning (Parts 9–16)
-Frameworks for building marketing strategy that connects to business goals.
+Strategic frameworks for marketing planning and goal-setting.
 
 | Part | Title | Description |
 |------|-------|-------------|
-| [Part 9](./strategy/part-09-marketing-strategy.md) | Marketing Strategy Fundamentals | Strategy vs. tactics, and how to build a complete marketing strategy |
-| [Part 10](./strategy/part-10-smart-goals.md) | Setting SMART Goals | How to set goals that are specific, measurable, and connected to business outcomes |
-| [Part 11](./strategy/part-11-customer-journey-mapping.md) | Customer Journey Mapping | Visualizing and improving the complete customer experience |
-| [Part 12](./strategy/part-12-marketing-mix.md) | The Marketing Mix (4Ps/7Ps) | The classic framework for integrated marketing decisions |
-| [Part 13](./strategy/part-13-go-to-market-strategy.md) | Go-to-Market Strategy | How to plan and execute a successful product or market launch |
-| [Part 14](./strategy/part-14-product-market-fit.md) | Product-Market Fit | Understanding and achieving the foundation for scalable growth |
-| [Part 15](./strategy/part-15-pricing-strategies.md) | Pricing Strategies | Using pricing as a marketing lever, not just a financial calculation |
-| [Part 16](./strategy/part-16-distribution-channels.md) | Distribution Channels | How to get your product in front of customers efficiently |
+| [Part 9](./strategy/part-09-marketing-strategy.md) | Marketing Strategy Fundamentals | How strategies differ from tactics and how to build one that guides all marketing activity |
+| [Part 10](./strategy/part-10-smart-goals.md) | Setting SMART Marketing Goals | Goal-setting frameworks that connect marketing effort to business outcomes |
+| [Part 11](./strategy/part-11-customer-journey-mapping.md) | Customer Journey Mapping | Documenting and understanding every touchpoint from awareness to advocacy |
+| [Part 12](./strategy/part-12-marketing-mix.md) | The Marketing Mix (4Ps/7Ps) | The classic framework updated for modern marketing environments |
+| [Part 13](./strategy/part-13-go-to-market-strategy.md) | Go-to-Market Strategy | How to plan and execute the launch of products and market entries |
+| [Part 14](./strategy/part-14-product-market-fit.md) | Product-Market Fit | How to find, measure, and strengthen the fit between what you sell and what the market wants |
+| [Part 15](./strategy/part-15-pricing-strategies.md) | Pricing Strategies | The strategic and psychological dimensions of pricing decisions |
+| [Part 16](./strategy/part-16-distribution-channels.md) | Distribution Channels | How products and services reach customers and how channel strategy affects everything else |
 
 ---
 
 ### Section 3: Content & Messaging (Parts 17–24)
-How to create content and messages that attract, engage, and convert.
+Creating content and messaging that resonates, converts, and compounds.
 
 | Part | Title | Description |
 |------|-------|-------------|
-| [Part 17](./content/part-17-content-strategy.md) | Content Strategy | Building a content operation aligned with business goals |
-| [Part 18](./content/part-18-storytelling.md) | Storytelling in Marketing | Using narrative structure to create emotional connection and drive action |
-| [Part 19](./content/part-19-copywriting.md) | Copywriting Fundamentals | Writing words that persuade people to take action |
-| [Part 20](./content/part-20-brand-voice-tone.md) | Brand Voice & Tone | Defining and maintaining a consistent, distinctive brand personality |
-| [Part 21](./content/part-21-messaging-framework.md) | Messaging Framework | Creating a hierarchy of messages that keeps all communications consistent |
-| [Part 22](./content/part-22-content-calendars.md) | Content Calendars | Building the operational system that makes consistent publishing possible |
-| [Part 23](./content/part-23-seo-basics.md) | SEO Basics | How search engines work and how to drive consistent organic traffic |
-| [Part 24](./content/part-24-long-form-content.md) | Long-Form Content Creation | Creating comprehensive content that ranks, converts, and builds authority |
+| [Part 17](./content/part-17-content-strategy.md) | Content Strategy | Building a content system that creates value for audiences and advances marketing goals |
+| [Part 18](./content/part-18-storytelling.md) | Storytelling in Marketing | How narrative structure makes marketing more persuasive and memorable |
+| [Part 19](./content/part-19-copywriting.md) | Copywriting Fundamentals | Writing that drives action — the principles behind high-converting copy |
+| [Part 20](./content/part-20-brand-voice-tone.md) | Brand Voice & Tone | Developing a consistent communication style that builds recognition and trust |
+| [Part 21](./content/part-21-messaging-framework.md) | Messaging Framework | Structuring your key messages for consistency across all channels and audiences |
+| [Part 22](./content/part-22-content-calendars.md) | Content Calendars | Planning and organizing content production for consistency and strategic alignment |
+| [Part 23](./content/part-23-seo-basics.md) | SEO Fundamentals | How search engines work and how to create content that ranks |
+| [Part 24](./content/part-24-long-form-content.md) | Long-Form Content Creation | Creating guides, reports, and deep-dive content that builds authority |
 
 ---
 
 ### Section 4: Digital Marketing Channels (Parts 25–32)
-The major digital channels and how to use each effectively.
+The major digital channels and how to use them effectively.
 
 | Part | Title | Description |
 |------|-------|-------------|
-| [Part 25](./digital/part-25-email-marketing.md) | Email Marketing | Building and nurturing your owned audience through email |
-| [Part 26](./digital/part-26-social-media-strategy.md) | Social Media Strategy | Choosing platforms, creating content, and building community at scale |
-| [Part 27](./digital/part-27-paid-advertising.md) | Paid Advertising (PPC/SEM) | Running effective paid search and social advertising campaigns |
-| [Part 28](./digital/part-28-influencer-marketing.md) | Influencer Marketing | Partnering with creators to reach new audiences authentically |
-| [Part 29](./digital/part-29-affiliate-marketing.md) | Affiliate Marketing | Building a performance-based distribution network |
-| [Part 30](./digital/part-30-marketing-automation.md) | Marketing Automation | Scaling personalized communication across the customer lifecycle |
-| [Part 31](./digital/part-31-marketing-analytics.md) | Marketing Analytics | Setting up measurement systems that drive better decisions |
-| [Part 32](./digital/part-32-conversion-rate-optimization.md) | Conversion Rate Optimization | Systematically improving the percentage of visitors who take action |
+| [Part 25](./digital/part-25-email-marketing.md) | Email Marketing | Building and using email as a direct, owned communication channel |
+| [Part 26](./digital/part-26-social-media-strategy.md) | Social Media Strategy | Choosing the right platforms and building presence that drives business results |
+| [Part 27](./digital/part-27-paid-advertising.md) | Paid Advertising (PPC/SEM) | The mechanics of paid search and display advertising and how to make them profitable |
+| [Part 28](./digital/part-28-influencer-marketing.md) | Influencer Marketing | Working with creators and influencers to reach and persuade new audiences |
+| [Part 29](./digital/part-29-affiliate-marketing.md) | Affiliate Marketing | Building performance-based distribution partnerships |
+| [Part 30](./digital/part-30-marketing-automation.md) | Marketing Automation | Using technology to deliver the right message at the right time at scale |
+| [Part 31](./digital/part-31-marketing-analytics.md) | Marketing Analytics | Collecting, organizing, and using data to improve marketing decisions |
+| [Part 32](./digital/part-32-conversion-rate-optimization.md) | Conversion Rate Optimization | Systematically improving the percentage of visitors who take desired actions |
 
 ---
 
 ### Section 5: Customer Acquisition & Retention (Parts 33–40)
-How to acquire customers efficiently and keep them long-term.
+Building systems that consistently win and keep customers.
 
 | Part | Title | Description |
 |------|-------|-------------|
-| [Part 33](./acquisition/part-33-lead-generation.md) | Lead Generation | Building a system that consistently fills your pipeline with qualified prospects |
-| [Part 34](./acquisition/part-34-lead-nurturing.md) | Lead Nurturing | Building relationships with leads over time until they're ready to buy |
-| [Part 35](./acquisition/part-35-sales-funnel-optimization.md) | Sales Funnel Optimization | Diagnosing and improving every stage of the path from lead to customer |
-| [Part 36](./acquisition/part-36-customer-onboarding.md) | Customer Onboarding | Getting new customers to value fast — the highest-leverage retention activity |
-| [Part 37](./acquisition/part-37-retention-strategies.md) | Retention Strategies | Keeping customers engaged, successful, and loyal over time |
-| [Part 38](./acquisition/part-38-customer-lifetime-value.md) | Customer Lifetime Value | Calculating and optimizing the long-term value of your customers |
-| [Part 39](./acquisition/part-39-loyalty-programs.md) | Loyalty Programs | Designing programs that drive the behaviors and relationships you want |
-| [Part 40](./acquisition/part-40-churn-prevention.md) | Churn Prevention | Identifying and addressing customer attrition before it happens |
+| [Part 33](./acquisition/part-33-lead-generation.md) | Lead Generation | Creating a consistent flow of qualified prospects |
+| [Part 34](./acquisition/part-34-lead-nurturing.md) | Lead Nurturing | Moving prospects through the consideration stage with relevant, timely communication |
+| [Part 35](./acquisition/part-35-sales-funnel-optimization.md) | Sales Funnel Optimization | Identifying and removing friction at every stage of the purchase journey |
+| [Part 36](./acquisition/part-36-customer-onboarding.md) | Customer Onboarding | Turning new customers into active, successful, retained ones |
+| [Part 37](./acquisition/part-37-retention-strategies.md) | Customer Retention Strategies | Keeping customers longer through value delivery and relationship management |
+| [Part 38](./acquisition/part-38-customer-lifetime-value.md) | Customer Lifetime Value | Calculating and growing the long-term revenue contribution of your customer base |
+| [Part 39](./acquisition/part-39-loyalty-programs.md) | Loyalty Programs | Designing programs that reward repeat behavior and increase switching costs |
+| [Part 40](./acquisition/part-40-churn-prevention.md) | Churn Prevention | Identifying and intervening with customers at risk of leaving |
 
 ---
 
 ### Section 6: Measurement & Optimization (Parts 41–48)
-How to measure, analyze, and continuously improve marketing performance.
+The metrics, models, and processes that drive continuous improvement.
 
 | Part | Title | Description |
 |------|-------|-------------|
-| [Part 41](./measurement/part-41-marketing-metrics-kpis.md) | Marketing Metrics & KPIs | The hierarchy of metrics that actually matter for marketing decisions |
-| [Part 42](./measurement/part-42-attribution-modeling.md) | Attribution Modeling | Assigning credit to marketing touchpoints to guide budget allocation |
-| [Part 43](./measurement/part-43-ab-testing.md) | A/B Testing | Running rigorous experiments that produce reliable, actionable insights |
-| [Part 44](./measurement/part-44-data-analysis.md) | Data Analysis for Marketers | The analytical skills that turn data into decisions |
-| [Part 45](./measurement/part-45-marketing-dashboards.md) | Marketing Dashboards | Designing dashboards that drive decisions, not just display data |
-| [Part 46](./measurement/part-46-roi-calculation.md) | ROI Calculation | Measuring and communicating the business return on marketing investment |
-| [Part 47](./measurement/part-47-performance-reporting.md) | Performance Reporting | Creating reports that build trust, drive decisions, and improve accountability |
-| [Part 48](./measurement/part-48-continuous-improvement.md) | Continuous Improvement | Building a culture and system of compounding marketing gains |
+| [Part 41](./measurement/part-41-marketing-metrics-kpis.md) | Marketing Metrics & KPIs | The measures that matter and how to choose the right ones for your business |
+| [Part 42](./measurement/part-42-attribution-modeling.md) | Attribution Modeling | Understanding which marketing activities deserve credit for conversions |
+| [Part 43](./measurement/part-43-ab-testing.md) | A/B Testing | Running experiments that produce reliable insights for optimization |
+| [Part 44](./measurement/part-44-data-analysis.md) | Data Analysis for Marketers | Turning marketing data into actionable conclusions |
+| [Part 45](./measurement/part-45-marketing-dashboards.md) | Marketing Dashboards | Building visibility into performance that supports fast decision-making |
+| [Part 46](./measurement/part-46-roi-calculation.md) | ROI Calculation | Measuring the financial return on marketing investment |
+| [Part 47](./measurement/part-47-performance-reporting.md) | Performance Reporting | Communicating marketing performance to stakeholders clearly and credibly |
+| [Part 48](./measurement/part-48-continuous-improvement.md) | Continuous Improvement | Building a culture and process of systematic learning and iteration |
 
 ---
 
 ### Section 7: Advanced Topics (Parts 49–50)
-Growth and campaign frameworks for scaling businesses.
+Synthesis and integration across marketing disciplines.
 
 | Part | Title | Description |
 |------|-------|-------------|
-| [Part 49](./advanced/part-49-growth-hacking.md) | Growth Hacking Strategies | The systematic experimentation approach to finding exponential growth levers |
-| [Part 50](./advanced/part-50-integrated-marketing-campaigns.md) | Integrated Marketing Campaigns | Orchestrating multiple channels around a single cohesive message for multiplied impact |
+| [Part 49](./advanced/part-49-growth-hacking.md) | Growth Hacking Strategies | The experimental, cross-functional approach to accelerating growth |
+| [Part 50](./advanced/part-50-integrated-marketing-campaigns.md) | Integrated Marketing Campaigns | Coordinating messaging and activity across all channels for maximum impact |
 
 ---
 
-### Section 8: Emerging Technologies & Futuristic Marketing (Parts 51–60)
-How AI, immersive media, privacy-first ecosystems, and next-generation channels are reshaping marketing practice — and the research gaps that remain.
+### Section 8: Futuristic Frontiers — AI, Data & Emerging Technology (Parts 51–60)
+Emerging technologies reshaping marketing practice.
 
 | Part | Title | Description |
 |------|-------|-------------|
-| [Part 51](./futuristic/part-51-ai-generative-marketing.md) | AI-Powered Marketing & Generative AI | How LLMs and generative models are restructuring content creation, personalization, and campaign execution |
-| [Part 52](./futuristic/part-52-predictive-analytics-ml.md) | Predictive Analytics & Machine Learning | How ML models generate actionable predictions for lead scoring, churn, CLV, and next-best-action |
-| [Part 53](./futuristic/part-53-metaverse-xr-marketing.md) | Marketing in the Metaverse & XR | Brand experiences in virtual worlds, AR, and extended reality — commercial potential and research gaps |
-| [Part 54](./futuristic/part-54-voice-conversational-marketing.md) | Voice Search & Conversational Marketing | Optimizing for voice interfaces and building conversational brand experiences |
-| [Part 55](./futuristic/part-55-web3-decentralized-marketing.md) | Web3 Marketing & Decentralized Ecosystems | NFTs, token-based loyalty, DAOs, and the hype-to-reality gap in Web3 brand strategy |
-| [Part 56](./futuristic/part-56-neuromarketing-consumer-psychology.md) | Neuromarketing & Consumer Psychology | Physiological marketing research, validated behavioral findings, and replication crisis lessons |
-| [Part 57](./futuristic/part-57-hyper-personalization.md) | Hyper-Personalization at Scale | AI-driven individual-level personalization — the infrastructure, the paradox, and the privacy tension |
-| [Part 58](./futuristic/part-58-zero-party-data-privacy.md) | Zero-Party Data & Privacy-First Marketing | Building durable data strategies in a post-cookie, consent-first ecosystem |
-| [Part 59](./futuristic/part-59-augmented-reality-marketing.md) | Augmented Reality in Marketing | Try-on, visualization, and social AR — the most commercially mature XR marketing channel |
-| [Part 60](./futuristic/part-60-programmatic-rtb-evolution.md) | Programmatic Advertising Evolution | How real-time bidding is transforming post-cookie, and CTV and retail media's rise |
+| [Part 51](./futuristic/part-51-ai-generative-marketing.md) | AI & Generative Marketing | LLMs, generative content, and the reshaping of content production at scale |
+| [Part 52](./futuristic/part-52-predictive-analytics-ml.md) | Predictive Analytics & Machine Learning | Forecasting customer behavior, campaign outcomes, and market dynamics |
+| [Part 53](./futuristic/part-53-metaverse-xr-marketing.md) | Metaverse & XR Marketing | Extended reality, virtual worlds, and the new dimensions of brand experience |
+| [Part 54](./futuristic/part-54-voice-conversational-marketing.md) | Voice & Conversational Marketing | Smart speakers, conversational AI, and the ambient computing opportunity |
+| [Part 55](./futuristic/part-55-web3-decentralized-marketing.md) | Web3 & Decentralized Marketing | Blockchain, NFTs, decentralized identity, and what they mean for brand relationships |
+| [Part 56](./futuristic/part-56-neuromarketing-consumer-psychology.md) | Neuromarketing & Consumer Psychology | Brain science applied to marketing: what neuroscience actually tells us |
+| [Part 57](./futuristic/part-57-hyper-personalization.md) | Hyper-Personalization at Scale | Real-time 1:1 personalization — the technology, the data requirements, and the ethics |
+| [Part 58](./futuristic/part-58-zero-party-data-privacy.md) | Zero-Party Data & Privacy-First Marketing | Consent-based data collection and the post-cookie future |
+| [Part 59](./futuristic/part-59-augmented-reality-marketing.md) | Augmented Reality in Marketing | AR commerce, virtual try-on, and spatial marketing experiences |
+| [Part 60](./futuristic/part-60-programmatic-rtb-evolution.md) | Programmatic Advertising Evolution | The evolution of real-time bidding, attention-based buying, and contextual targeting |
 
 ---
 
-### Section 9: Research Gaps & Emerging Frontiers (Parts 61–70)
-The open questions, contested findings, and frontier research areas that practitioners need to understand.
+### Section 9: Futuristic Frontiers — Behavioral Science & Research Gaps (Parts 61–70)
+The frontier of marketing science and the research gaps shaping the discipline.
 
 | Part | Title | Description |
 |------|-------|-------------|
-| [Part 61](./futuristic/part-61-behavioral-economics.md) | Behavioral Economics in Marketing | Validated nudge principles, the replication crisis, and ethical boundaries in persuasion design |
-| [Part 62](./futuristic/part-62-dark-social-unmeasurable-impact.md) | Dark Social & Unmeasurable Impact | The vast majority of word-of-mouth that standard analytics cannot see — and what to do about it |
-| [Part 63](./futuristic/part-63-emotional-ai-sentiment.md) | Emotional AI & Sentiment-Driven Campaigns | Detecting and responding to consumer emotional signals — technology, applications, and ethics |
-| [Part 64](./futuristic/part-64-quantum-computing-marketing.md) | Quantum Computing's Impact on Marketing | Optimization, privacy, and predictive modeling through a quantum lens — realistic timelines and gaps |
-| [Part 65](./futuristic/part-65-ethical-marketing.md) | Ethical Marketing & Conscious Consumerism | Greenwashing risks, the attitude-behavior gap, and the business case for genuine ethical commitment |
-| [Part 66](./futuristic/part-66-micro-moments-attention.md) | Micro-Moments & Attention Economy | Google's intent-moment framework and the attention scarcity challenge in fragmented media |
-| [Part 67](./futuristic/part-67-post-cookie-identity.md) | The Post-Cookie Era & Identity Resolution | UID2, Privacy Sandbox, contextual targeting, and building identity resilience |
-| [Part 68](./futuristic/part-68-synthetic-media.md) | Synthetic Media & AI-Generated Content | AI video, voice synthesis, deepfake risks, authenticity disclosure, and the trust crisis |
-| [Part 69](./futuristic/part-69-community-led-growth.md) | Community-Led Growth (CLG) | Building communities that drive acquisition, retention, and product development — not just engagement |
-| [Part 70](./futuristic/part-70-social-commerce.md) | Social Commerce & Shoppable Media | TikTok Shop, live commerce, Instagram Shopping, and the collapse of discovery-to-purchase friction |
+| [Part 61](./futuristic/part-61-behavioral-economics.md) | Behavioral Economics in Marketing | The replication crisis, what holds, and the practical application of behavioral science |
+| [Part 62](./futuristic/part-62-dark-social-unmeasurable-impact.md) | Dark Social & Unmeasurable Impact | The 80% of sharing that analytics can't see and how to build for invisible influence |
+| [Part 63](./futuristic/part-63-emotional-ai-sentiment.md) | Emotional AI & Sentiment Intelligence | Machines that read emotion — applications and significant ethical concerns |
+| [Part 64](./futuristic/part-64-quantum-computing-marketing.md) | Quantum Computing & Marketing | The actual marketing implications of quantum computing and the honest research frontier |
+| [Part 65](./futuristic/part-65-ethical-marketing.md) | Ethical Marketing & Conscious Consumerism | The business case for ethics — trust, long-term equity, and the regulatory horizon |
+| [Part 66](./futuristic/part-66-micro-moments-attention.md) | Micro-Moments & Attention Economics | The fragmentation of attention and how to be present in decision-relevant moments |
+| [Part 67](./futuristic/part-67-post-cookie-identity.md) | Post-Cookie Identity & Privacy Advertising | The identity resolution gap and the emerging approaches to privacy-safe targeting |
+| [Part 68](./futuristic/part-68-synthetic-media.md) | Synthetic Media & Authenticity | AI-generated images, video, and voice in marketing — the opportunity and the trust risk |
+| [Part 69](./futuristic/part-69-community-led-growth.md) | Community-Led Growth | Building customer communities that drive acquisition, retention, and product development |
+| [Part 70](./futuristic/part-70-social-commerce.md) | Social Commerce & Shoppable Media | The convergence of discovery, content, and purchase — and the platforms leading it |
 
 ---
 
@@ -222,6 +229,116 @@ Advanced enterprise frameworks, cross-cultural intelligence, and the complete MK
 
 ---
 
+## Strategy Playbook (Alternative 80-Part Structure)
+
+*A complementary, action-oriented 80-part strategy knowledge base organized around execution cadences and operating systems.*
+
+### Section 1: Strategic Core
+- [Part 01: Market Reality Map](01-strategic-core/part-01-market-reality-map.md)
+- [Part 02: Ideal Customer Profile](01-strategic-core/part-02-ideal-customer-profile.md)
+- [Part 03: Segmentation & Priority Tiers](01-strategic-core/part-03-segmentation-priority-tiers.md)
+- [Part 04: The Positioning Wedge](01-strategic-core/part-04-positioning-wedge.md)
+- [Part 05: Category Narrative](01-strategic-core/part-05-category-narrative.md)
+- [Part 06: Offer Architecture](01-strategic-core/part-06-offer-architecture.md)
+- [Part 07: Pricing Strategy by Value Density](01-strategic-core/part-07-pricing-strategy.md)
+- [Part 08: Go-To-Market Model Selection](01-strategic-core/part-08-gtm-model-selection.md)
+
+### Section 2: Intelligence & Research
+- [Part 09: Voice-of-Customer System](02-intelligence-research/part-09-voice-of-customer-system.md)
+- [Part 10: Competitor Motion Analysis](02-intelligence-research/part-10-competitor-motion-analysis.md)
+- [Part 11: Message Testing Matrix](02-intelligence-research/part-11-message-testing-matrix.md)
+- [Part 12: Demand Capture Audit](02-intelligence-research/part-12-demand-capture-audit.md)
+- [Part 13: Demand Creation Audit](02-intelligence-research/part-13-demand-creation-audit.md)
+- [Part 14: Channel-Message Fit Research](02-intelligence-research/part-14-channel-message-fit-research.md)
+- [Part 15: Funnel Leak Diagnosis](02-intelligence-research/part-15-funnel-leak-diagnosis.md)
+- [Part 16: Brand Perception Baseline](02-intelligence-research/part-16-brand-perception-baseline.md)
+
+### Section 3: Strategy Design
+- [Part 17: North Star Metric & Revenue Tree](03-strategy-design/part-17-north-star-metric.md)
+- [Part 18: SMART Growth Objectives](03-strategy-design/part-18-smart-growth-objectives.md)
+- [Part 19: Market Penetration Plan](03-strategy-design/part-19-market-penetration-plan.md)
+- [Part 20: Expansion Plan](03-strategy-design/part-20-expansion-plan.md)
+- [Part 21: Defensive vs Offensive Resource Split](03-strategy-design/part-21-defensive-offensive-split.md)
+- [Part 22: Campaign Portfolio Design](03-strategy-design/part-22-campaign-portfolio-design.md)
+- [Part 23: Content Engine Strategy](03-strategy-design/part-23-content-engine-strategy.md)
+- [Part 24: Trust Architecture](03-strategy-design/part-24-trust-architecture.md)
+
+### Section 4: All-Out Attack Engine
+- [Part 25: War-Room Planning Framework](04-all-out-attack-engine/part-25-war-room-planning.md)
+- [Part 26: 12-Week Blitz Calendar](04-all-out-attack-engine/part-26-12-week-blitz-calendar.md)
+- [Part 27: Channel Domination Sprint](04-all-out-attack-engine/part-27-channel-domination-sprint.md)
+- [Part 28: Creative Volume System](04-all-out-attack-engine/part-28-creative-volume-system.md)
+- [Part 29: Offer Stack Aggression](04-all-out-attack-engine/part-29-offer-stack-aggression.md)
+- [Part 30: Landing Page Swarm Strategy](04-all-out-attack-engine/part-30-landing-page-swarm.md)
+- [Part 31: Retargeting Net Design](04-all-out-attack-engine/part-31-retargeting-net-design.md)
+- [Part 32: Sales + Marketing Strike Alignment](04-all-out-attack-engine/part-32-sales-marketing-alignment.md)
+
+### Section 5: Acquisition Systems
+- [Part 33: Paid Media Command](05-acquisition-systems/part-33-paid-media-command.md)
+- [Part 34: Organic Search Compound Strategy](05-acquisition-systems/part-34-organic-search-strategy.md)
+- [Part 35: Social Distribution Flywheel](05-acquisition-systems/part-35-social-distribution-flywheel.md)
+- [Part 36: Influencer & Creator Coalition](05-acquisition-systems/part-36-influencer-creator-coalition.md)
+- [Part 37: Partnership & Affiliate Expansion](05-acquisition-systems/part-37-partnership-affiliate-expansion.md)
+- [Part 38: Outbound + ABM Precision](05-acquisition-systems/part-38-outbound-abm-precision.md)
+- [Part 39: Lead Magnet & Webinar Pipeline](05-acquisition-systems/part-39-lead-magnet-webinar-pipeline.md)
+- [Part 40: Conversion Rate Optimization](05-acquisition-systems/part-40-conversion-rate-optimization.md)
+
+### Section 6: Retention, Expansion & Monetization
+- [Part 41: Onboarding Acceleration](06-retention-expansion/part-41-onboarding-acceleration.md)
+- [Part 42: Activation Triggers & Usage Habits](06-retention-expansion/part-42-activation-triggers.md)
+- [Part 43: Lifecycle Messaging Automation](06-retention-expansion/part-43-lifecycle-messaging-automation.md)
+- [Part 44: Churn Prevention Operations](06-retention-expansion/part-44-churn-prevention-operations.md)
+- [Part 45: Upsell & Cross-Sell Playbooks](06-retention-expansion/part-45-upsell-crosssell-playbooks.md)
+- [Part 46: Customer Advocacy Loops](06-retention-expansion/part-46-customer-advocacy-loops.md)
+
+### Section 7: Measurement & Adaptation
+- [Part 47: KPI Command Center](07-measurement-adaptation/part-47-kpi-command-center.md)
+- [Part 48: Attribution Framework](07-measurement-adaptation/part-48-attribution-framework.md)
+- [Part 49: Experimentation OS](07-measurement-adaptation/part-49-experimentation-os.md)
+- [Part 50: Quarterly Strategy Refactor](07-measurement-adaptation/part-50-quarterly-strategy-refactor.md)
+
+### Section 8: Futuristic Frontiers & Research Gaps
+
+#### AI, Automation & Emerging Technology (Parts 51–58)
+- [Part 51: AI-Powered Marketing Intelligence](08-futuristic-frontiers/part-51-ai-marketing-intelligence.md)
+- [Part 52: Generative AI Content at Scale](08-futuristic-frontiers/part-52-generative-ai-content-at-scale.md)
+- [Part 53: Autonomous Marketing Agents](08-futuristic-frontiers/part-53-autonomous-marketing-agents.md)
+- [Part 54: Predictive Customer Behavior Modeling](08-futuristic-frontiers/part-54-predictive-customer-behavior.md)
+- [Part 55: Neuromarketing & Behavioral Science](08-futuristic-frontiers/part-55-neuromarketing-and-behavioral-science.md)
+- [Part 56: Web3 & Decentralized Marketing](08-futuristic-frontiers/part-56-web3-decentralized-marketing.md)
+- [Part 57: Spatial Computing, AR & VR Marketing](08-futuristic-frontiers/part-57-spatial-computing-ar-vr-marketing.md)
+- [Part 58: Voice Search & Ambient Computing Marketing](08-futuristic-frontiers/part-58-voice-and-ambient-computing-marketing.md)
+
+#### The Future of Channels & Audiences (Parts 59–66)
+- [Part 59: The Cookieless Future & First-Party Data](08-futuristic-frontiers/part-59-cookieless-future-and-first-party-data.md)
+- [Part 60: AI-Powered Personalization at Scale](08-futuristic-frontiers/part-60-ai-powered-personalization-at-scale.md)
+- [Part 61: Creator Economy & Community-Led Growth](08-futuristic-frontiers/part-61-creator-economy-and-community-led-growth.md)
+- [Part 62: TikTok, Short-Form Video & Attention Economics](08-futuristic-frontiers/part-62-tiktok-short-video-and-attention-economics.md)
+- [Part 63: B2B Dark Social & Invisible Influence](08-futuristic-frontiers/part-63-b2b-dark-social-and-invisible-influence.md)
+- [Part 64: Podcast & Audio Marketing](08-futuristic-frontiers/part-64-podcast-and-audio-marketing.md)
+- [Part 65: International & Cross-Cultural Marketing](08-futuristic-frontiers/part-65-international-and-cross-cultural-marketing.md)
+- [Part 66: Sustainability & Purpose-Driven Marketing](08-futuristic-frontiers/part-66-sustainability-and-purpose-driven-marketing.md)
+
+#### Research Gaps & Frontier Frameworks (Parts 67–74)
+- [Part 67: Next-Generation Marketing Mix Modeling](08-futuristic-frontiers/part-67-marketing-mix-modeling-next-gen.md)
+- [Part 68: Incrementality Testing at Scale](08-futuristic-frontiers/part-68-incrementality-testing-at-scale.md)
+- [Part 69: Causal Inference in Marketing](08-futuristic-frontiers/part-69-causal-inference-in-marketing.md)
+- [Part 70: The Frontier of Customer Lifetime Value Modeling](08-futuristic-frontiers/part-70-customer-lifetime-value-frontier.md)
+- [Part 71: Attention Measurement & Media Quality](08-futuristic-frontiers/part-71-attention-measurement-and-media-quality.md)
+- [Part 72: Dark Patterns, Ethical Marketing & Regulation](08-futuristic-frontiers/part-72-dark-patterns-and-ethical-marketing.md)
+- [Part 73: Marketing in AI-Saturated Markets](08-futuristic-frontiers/part-73-marketing-in-ai-saturated-markets.md)
+- [Part 74: Marketing Org Design & the Future of Work](08-futuristic-frontiers/part-74-marketing-org-design-and-future-of-work.md)
+
+#### Next-Gen Strategy & Operating Models (Parts 75–80)
+- [Part 75: The Product-Led Growth Frontier](08-futuristic-frontiers/part-75-product-led-growth-frontier.md)
+- [Part 76: AI Search & the Death of the Blue Link](08-futuristic-frontiers/part-76-ai-search-and-the-death-of-blue-links.md)
+- [Part 77: Real-Time Marketing & Event-Driven Systems](08-futuristic-frontiers/part-77-real-time-marketing-and-event-driven-systems.md)
+- [Part 78: Category Creation & Market Making](08-futuristic-frontiers/part-78-category-creation-and-market-making.md)
+- [Part 79: Marketing During Economic Uncertainty](08-futuristic-frontiers/part-79-marketing-during-economic-uncertainty.md)
+- [Part 80: The Future Marketing Stack — Infrastructure for 2030](08-futuristic-frontiers/part-80-the-future-marketing-stack.md)
+
+---
+
 ## How to Use This Knowledge Base
 
 ### If You're New to Marketing
@@ -269,11 +386,24 @@ Part 85 → Part 94 → Part 95 → Part 73 → Part 52 → Part 42 → Part 100
 
 ---
 
+## All-Out Attack — Operating Doctrine
+
+1. **Concentrate force** — Dominate 2 primary channels instead of spreading weakly across many.
+2. **Speed over perfection** — Weekly campaign/creative/test shipping cadence.
+3. **Proof-heavy messaging** — Every claim backed by outcomes, testimonials, and case studies.
+4. **Short feedback loops** — Read data daily, decide weekly, reallocate monthly.
+5. **Compounding assets** — Every campaign must leave reusable assets behind.
+6. **Budget fluidity** — Move budget to winners fast; remove underperformers decisively.
+7. **Cross-functional strike alignment** — Marketing, sales, and product in one operating rhythm.
+
+---
+
 ## Directory Structure
 
 ```
 marketing/
 ├── README.md
+├── EXECUTIVE-MARKETING-STRATEGY-OS.md
 ├── foundations/
 │   ├── part-01-core-marketing-principles.md
 │   ├── part-02-target-audience.md
@@ -362,27 +492,35 @@ marketing/
 │   ├── part-78-generation-alpha.md
 │   ├── part-79-attention-economy-ad-blindness.md
 │   └── part-80-future-of-marketing.md
-└── intelligence/
-    ├── part-81-marketing-intelligence-systems.md
-    ├── part-82-jobs-to-be-done.md
-    ├── part-83-network-effects-viral-loops.md
-    ├── part-84-brand-architecture-portfolio.md
-    ├── part-85-signal-based-selling-intent.md
-    ├── part-86-narrative-economics-cultural-marketing.md
-    ├── part-87-recession-marketing.md
-    ├── part-88-category-creation.md
-    ├── part-89-anti-marketing-counterintuitive.md
-    ├── part-90-virality-word-of-mouth.md
-    ├── part-91-marketing-operating-system.md
-    ├── part-92-pricing-psychology-scale.md
-    ├── part-93-brand-equity-measurement.md
-    ├── part-94-account-based-marketing.md
-    ├── part-95-sales-marketing-alignment.md
-    ├── part-96-global-marketing-localization.md
-    ├── part-97-creator-economy-owned-media.md
-    ├── part-98-platform-ecosystem-marketing.md
-    ├── part-99-scenario-planning-foresight.md
-    └── part-100-mkb100-master-framework.md
+├── intelligence/
+│   ├── part-81-marketing-intelligence-systems.md
+│   ├── part-82-jobs-to-be-done.md
+│   ├── part-83-network-effects-viral-loops.md
+│   ├── part-84-brand-architecture-portfolio.md
+│   ├── part-85-signal-based-selling-intent.md
+│   ├── part-86-narrative-economics-cultural-marketing.md
+│   ├── part-87-recession-marketing.md
+│   ├── part-88-category-creation.md
+│   ├── part-89-anti-marketing-counterintuitive.md
+│   ├── part-90-virality-word-of-mouth.md
+│   ├── part-91-marketing-operating-system.md
+│   ├── part-92-pricing-psychology-scale.md
+│   ├── part-93-brand-equity-measurement.md
+│   ├── part-94-account-based-marketing.md
+│   ├── part-95-sales-marketing-alignment.md
+│   ├── part-96-global-marketing-localization.md
+│   ├── part-97-creator-economy-owned-media.md
+│   ├── part-98-platform-ecosystem-marketing.md
+│   ├── part-99-scenario-planning-foresight.md
+│   └── part-100-mkb100-master-framework.md
+├── 01-strategic-core/
+├── 02-intelligence-research/
+├── 03-strategy-design/
+├── 04-all-out-attack-engine/
+├── 05-acquisition-systems/
+├── 06-retention-expansion/
+├── 07-measurement-adaptation/
+└── 08-futuristic-frontiers/
 ```
 
 ---

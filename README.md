@@ -229,6 +229,54 @@ Advanced enterprise frameworks, cross-cultural intelligence, and the complete MK
 
 ---
 
+### Section 13: PPV Platform Sales Funnel Knowledge Base (Parts 01–40)
+Specialized guidance for building, optimizing, and scaling pay-per-view platform funnels across the full lifecycle.
+
+| Part | Title | Description |
+|------|-------|-------------|
+| [Part 01](./ppv-funnels/part-01-market-definition-audience-lensing.md) | Market Definition & Audience Lensing | Define the PPV category, segment intent, and build a market lens for every funnel decision |
+| [Part 02](./ppv-funnels/part-02-value-core-outcome-mapping.md) | Value Core & Outcome Mapping | Translate features into outcomes and align messaging to a single value core |
+| [Part 03](./ppv-funnels/part-03-entropy-based-opening.md) | Entropy-Based Opening | Use controlled unpredictability to increase curiosity without harming clarity |
+| [Part 04](./ppv-funnels/part-04-promise-hierarchy.md) | Promise Hierarchy | Layer primary, secondary, and tertiary promises to reduce buyer anxiety |
+| [Part 05](./ppv-funnels/part-05-offer-architecture.md) | Offer Architecture | Structure entry, core, and premium offers for maximum conversion and ARPU |
+| [Part 06](./ppv-funnels/part-06-temporal-scarcity-design.md) | Temporal Scarcity Design | Build urgency around real event milestones without eroding trust |
+| [Part 07](./ppv-funnels/part-07-pricing-psychology.md) | Pricing Psychology | Align price framing and anchoring to the event’s perceived value |
+| [Part 08](./ppv-funnels/part-08-funnel-staging.md) | Funnel Staging | Define PPV funnel stages from awareness through post-event retention |
+| [Part 09](./ppv-funnels/part-09-traffic-source-matching.md) | Traffic Source Matching | Match channels to intent and shift media mix as the event approaches |
+| [Part 10](./ppv-funnels/part-10-landing-page-structure.md) | Landing Page Structure | Build a conversion-first PPV landing page sequence for mobile buyers |
+| [Part 11](./ppv-funnels/part-11-narrative-spine.md) | Narrative Spine | Create a story arc that makes the event feel unmissable |
+| [Part 12](./ppv-funnels/part-12-pre-sell-content.md) | Pre-Sell Content | Warm audiences with a teaser-to-proof content sequence |
+| [Part 13](./ppv-funnels/part-13-lead-capture-event-aware-hooks.md) | Lead Capture with Event-Aware Hooks | Capture leads without slowing down high-intent buyers |
+| [Part 14](./ppv-funnels/part-14-email-nurture-cadence.md) | Email Nurture Cadence | Design short, high-intensity email sequences that drive conversion |
+| [Part 15](./ppv-funnels/part-15-sms-triggering.md) | SMS Triggering | Use SMS only for event-critical reminders and access delivery |
+| [Part 16](./ppv-funnels/part-16-retargeting-segmentation.md) | Retargeting Segmentation | Segment retargeting by funnel behavior to avoid fatigue |
+| [Part 17](./ppv-funnels/part-17-checkout-optimization.md) | Checkout Optimization | Remove friction and reinforce trust at the purchase moment |
+| [Part 18](./ppv-funnels/part-18-payment-access-clarity.md) | Payment & Access Clarity | Communicate access steps and device support with zero ambiguity |
+| [Part 19](./ppv-funnels/part-19-trust-proof-stack.md) | Trust Proof Stack | Build multi-layer proof that resolves access and value doubts |
+| [Part 20](./ppv-funnels/part-20-social-proof-timing.md) | Social Proof Timing | Place social proof at the moment it matters most |
+| [Part 21](./ppv-funnels/part-21-guarantee-risk-reversal.md) | Guarantee & Risk Reversal | Use clear guarantees to reduce anxiety and refund risk |
+| [Part 22](./ppv-funnels/part-22-urgency-countdown-ethics.md) | Urgency & Countdown Ethics | Apply ethical urgency tied to real event deadlines |
+| [Part 23](./ppv-funnels/part-23-event-day-funnel.md) | Event-Day Funnel | Treat event day as a funnel stage with access, support, and activation |
+| [Part 24](./ppv-funnels/part-24-post-purchase-engagement.md) | Post-Purchase Engagement | Reinforce confidence and reduce refunds immediately after purchase |
+| [Part 25](./ppv-funnels/part-25-in-stream-upsells.md) | In-Stream Upsells | Increase ARPU with non-disruptive, in-experience upgrades |
+| [Part 26](./ppv-funnels/part-26-replay-monetization.md) | Replay Monetization | Build replay offers that extend revenue beyond the live event |
+| [Part 27](./ppv-funnels/part-27-affiliate-partner-funnels.md) | Affiliate & Partner Funnels | Scale distribution with aligned partner messaging and tracking |
+| [Part 28](./ppv-funnels/part-28-creator-performer-amplification.md) | Creator & Performer Amplification | Use creator trust channels to drive high-intent traffic |
+| [Part 29](./ppv-funnels/part-29-community-flywheel.md) | Community Flywheel | Build engagement loops that increase perceived value and retention |
+| [Part 30](./ppv-funnels/part-30-on-page-personalization.md) | On-Page Personalization | Add relevance cues based on source, device, and location |
+| [Part 31](./ppv-funnels/part-31-behavior-based-offers.md) | Behavior-Based Offers | Tailor offer emphasis based on intent signals without confusion |
+| [Part 32](./ppv-funnels/part-32-ab-testing-priorities.md) | A/B Testing Priorities | Focus tests on the highest-leverage PPV conversion elements |
+| [Part 33](./ppv-funnels/part-33-attribution-measurement.md) | Attribution & Measurement | Build multi-signal attribution for short PPV cycles |
+| [Part 34](./ppv-funnels/part-34-churn-refund-analysis.md) | Churn & Refund Analysis | Use refund signals to tighten promises and access clarity |
+| [Part 35](./ppv-funnels/part-35-conversion-rate-benchmarks.md) | Conversion Rate Benchmarks | Set realistic targets and focus on the biggest funnel leaks |
+| [Part 36](./ppv-funnels/part-36-cross-device-continuity.md) | Cross-Device Continuity | Support multi-device journeys from purchase to playback |
+| [Part 37](./ppv-funnels/part-37-compliance-rights.md) | Compliance & Rights | Communicate regional availability and usage rights clearly |
+| [Part 38](./ppv-funnels/part-38-security-anti-fraud.md) | Security & Anti-Fraud | Protect revenue while keeping friction low for legitimate buyers |
+| [Part 39](./ppv-funnels/part-39-lifecycle-marketing.md) | Lifecycle Marketing | Convert PPV buyers into repeat customers across events |
+| [Part 40](./ppv-funnels/part-40-continuous-intelligence-loop.md) | Continuous Intelligence Loop | Create a repeatable learning system for every event cycle |
+
+---
+
 ## Strategy Playbook (Alternative 80-Part Structure)
 
 *A complementary, action-oriented 80-part strategy knowledge base organized around execution cadences and operating systems.*
@@ -513,6 +561,7 @@ marketing/
 │   ├── part-98-platform-ecosystem-marketing.md
 │   ├── part-99-scenario-planning-foresight.md
 │   └── part-100-mkb100-master-framework.md
+├── ppv-funnels/
 ├── 01-strategic-core/
 ├── 02-intelligence-research/
 ├── 03-strategy-design/
@@ -535,4 +584,4 @@ This knowledge base is designed to evolve. If you identify outdated information,
 
 ---
 
-*MKB-100: Marketing Knowledge-Base Operating System — 100 parts, 12 sections, 9 directories.*
+*MKB-100: Marketing Knowledge-Base Operating System — 100 parts, 12 sections, 9 directories, plus the PPV Platform Sales Funnel extension.*

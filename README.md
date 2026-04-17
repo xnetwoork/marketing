@@ -277,6 +277,14 @@ Specialized guidance for building, optimizing, and scaling pay-per-view platform
 
 ---
 
+
+### Section 14: Sales Funnels Thematic Knowledge Base (Parts 01–100)
+A dedicated thematic extension covering end-to-end marketing and sales funnel systems.
+
+- [Sales Funnels Index (100 Parts)](./salesfunnels/README.md)
+
+---
+
 ## Strategy Playbook (Alternative 80-Part Structure)
 
 *A complementary, action-oriented 80-part strategy knowledge base organized around execution cadences and operating systems.*
@@ -562,6 +570,7 @@ marketing/
 │   ├── part-99-scenario-planning-foresight.md
 │   └── part-100-mkb100-master-framework.md
 ├── ppv-funnels/
+├── salesfunnels/
 ├── 01-strategic-core/
 ├── 02-intelligence-research/
 ├── 03-strategy-design/
@@ -584,4 +593,4 @@ This knowledge base is designed to evolve. If you identify outdated information,
 
 ---
 
-*MKB-100: Marketing Knowledge-Base Operating System — 100 parts, 12 sections, 9 directories, plus the PPV Platform Sales Funnel extension.*
+*MKB-100: Marketing Knowledge-Base Operating System — 100 parts, 12 sections, 9 directories, plus PPV and Sales Funnels thematic extensions.*
